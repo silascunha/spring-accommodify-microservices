@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.dev.silascunha</groupId>
-	<artifactId>ms-accomodation</artifactId>
+	<artifactId>ms-accommodation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ms-accomodation</name>
+	<name>ms-accommodation</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>

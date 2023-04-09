@@ -1,10 +1,10 @@
-package br.dev.silascunha.msaccomodation;
+package br.dev.silascunha.msaccommodation;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MsAccomodationApplicationTests {
+class MsAccommodationApplicationTests {
 
 	@Test
 	void contextLoads() {
