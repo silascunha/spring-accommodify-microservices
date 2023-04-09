@@ -1,6 +1,6 @@
 spring:
   application:
-    name: msdiscovery
+    name: ms-discovery
   
   security:
     user:
