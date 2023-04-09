@@ -26,3 +26,5 @@ eureka:
     register-with-eureka: true
     service-url:
       defaultZone: http://user:password@localhost:8761/eureka
+  instance:
+    instance-id: ${spring.application.name}:${server.address:${random.value}}
