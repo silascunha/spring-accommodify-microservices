@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: ms-discovery
+  
+  security:
+    user:
+      name: dev-user
+      password: dev-pass
+
+server:
+  port: 8761
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
